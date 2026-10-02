@@ -2,6 +2,9 @@
 
 Welcome to **Recipe Box**, a simple and user-friendly recipe website where you can explore delicious meals, desserts, and cooking ideas.
 
+## Preview
+https://cinderella-mpu.github.io/RecipeBox/homepage.html
+
 ## 📖 About the Project
 
 Recipe Box was created as a web development project to provide an easy way for users to discover recipes and cooking tips.
